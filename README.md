@@ -1,5 +1,5 @@
 # TodoList
-## Um simples Tutorial desenvolvido para os desenvolvedores do projeto pré-matrícula da fábrica de software UCSAL.
+Um simples Tutorial desenvolvido para os desenvolvedores do projeto pré-matrícula da fábrica de software UCSAL.
 
 ## Conhecendo os arquivos:
 **Angular.json:** Arquivo que contém uma série de configurações do app angular do nosso projeto, como otimização de código, configuração do build etc..
